@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "ead4",
+      "title": "Senior Web Engineer",
+      "type": "Part-Time",
+      "location": "New Castle",
+      "description": "A website engineer is a computer and technology professional who builds websites and applications. Using computer coding skills, they can create web applications and destinations that meet user needs. They can also maintain these applications and monitor them to ensure that their functionality remains intact.",
+      "salary": "$80K - 90K",
+      "company": {
+        "name": "Traveloka US",
+        "description": "Lorem ipsum, placeholder or dummy text used in typesetting and graphic design for previewing layouts. It features scrambled Latin text, which emphasizes the design over content of the layout. It is the standard placeholder text of the printing and publishing industries. Category: Arts & Culture.",
+        "contactEmail": "info@traveloka.com",
+        "contactPhone": "56565656"
+      }
     }
   ]
 }
